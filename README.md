@@ -1,1 +1,8 @@
-# ATM-OOP_A1_Jan-Paul-Andre-Victoria
+An ATM Simulator developed using C#.
+
+Concepts Used:
+
+- Methods
+- Conditionals
+- Looping
+- User Input
